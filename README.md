@@ -7,7 +7,6 @@
 4. [Installation](#installation)
 5. [Usage](#usage)
 6. [Future Enhancements](#future-enhancements)
-7. [Contributing](#contributing)
 
 ---
 
@@ -61,11 +60,3 @@ Follow these steps to set up the project on your local machine:
 
 ---
 
-## Contributing
-Contributions are welcome! If you want to improve this project, follow these steps:
-1. Fork the repository.
-2. Create a new branch (`feature-xyz`).
-3. Make changes and test them.
-4. Submit a pull request.
-
----
